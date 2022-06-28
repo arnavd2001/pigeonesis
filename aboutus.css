@@ -1,0 +1,30 @@
+body html
+{
+background-color:orange;
+height : 100%;
+}
+.navbar
+{
+float:right;
+margin-bottom:30px;
+margin-top:20px;
+}
+.navbar a:hover
+{
+background-color:lime;
+text-decoration:bold;
+}
+h2
+{
+margin:40px;
+color:blue;
+text-align: center;
+background-color: orange;
+}
+p
+{
+color:black;
+opacity:0.5;
+}
+
+

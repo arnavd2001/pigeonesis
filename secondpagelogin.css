@@ -1,0 +1,20 @@
+body
+{
+background-color:orange;
+text-align :center;
+margin-top:200px;
+}
+.container{
+    width:40%;
+    height: 40vh;
+    background-color: rgba(255, 255, 255, 0.74);
+    border-radius: 7px;
+    text-align: center;
+    box-shadow: 0px 0px 13px black;
+}
+#submit{
+    margin: 20px;
+}
+.container h1{
+    margin: 50px;
+}
