@@ -24,9 +24,10 @@ Software Requirements for the Project are:
         6.The Site can be enjoyed at your Localhost, on your desired browser.
 
 <p align="center">
-  <img src="https://github.com/arnavd2001/Queue-Manager/blob/main/output_images/1.JPG" >
-  <img src="https://github.com/arnavd2001/Queue-Manager/blob/main/output_images/2.JPG" >
-  <img src="https://github.com/arnavd2001/Queue-Manager/blob/main/output_images/3.JPG" >
-  <img src="https://github.com/arnavd2001/Queue-Manager/blob/main/output_images/4.JPG" >
-  <img src="https://github.com/arnavd2001/Queue-Manager/blob/main/output_images/5.JPG" >
+  <img src="imag1.jpg" >
+  <img src="image2.jpg" >
+  <img src="image3.jpg" >
+  <img src="image4.jpg" >
+  <img src="image5.jpg" >
+  <img src="image6.jpg" >
 </p>
